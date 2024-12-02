@@ -12,4 +12,4 @@ export const AuthNav = () => {
       </NavLink>
     </div>
   );
-};
+}; 

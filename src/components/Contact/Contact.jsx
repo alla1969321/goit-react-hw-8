@@ -29,4 +29,4 @@ export const Contact = ({ contact: { id, name, number } }) => {
       </div>
     </>
   );
-};
+}; 
