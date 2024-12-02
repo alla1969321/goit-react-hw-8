@@ -8,4 +8,4 @@ export const Layout = ({ children }) => {
       <Suspense fallback={null}>{children}</Suspense>
     </div>
   );
-};
+};  

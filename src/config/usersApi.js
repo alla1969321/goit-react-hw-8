@@ -9,4 +9,4 @@ export const setToken = (token) => {
 };
 export const clearToken = () => {
   usersApi.defaults.headers.common.Authorization = "";
-}; 
+};  

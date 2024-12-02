@@ -19,4 +19,4 @@ export const ContactList = () => {
       </ul>
     </div>
   );
-};
+}; 
