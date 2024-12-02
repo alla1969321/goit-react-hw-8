@@ -16,7 +16,7 @@ export default function HomePage() {
   return (
     <>
       <div style={styles.container}>
-        <h1 style={styles.title}>Contact manager welcome page </h1>
+        <h1 style={styles.title}>WELCOME CONTACT PAGE </h1>
       </div>
     </>
   );
